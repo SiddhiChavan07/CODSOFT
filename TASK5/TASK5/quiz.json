@@ -1,0 +1,20 @@
+{
+   "ques" : [
+    "1.Who developed Python Programming Language?",
+    "2.Which of the following is the correct extension of the Python file?",
+    "3.Which keyword is used for function in Python language?",
+    "4.Which of the following character is used to give single-line comments in Python?",
+    "5.Which type of Programming does Python support?"
+    ],
+
+    "options" : [
+    ["Wick van Rossum", "Rasmus Lerdorf", "Guido van Rossum", "Niene Stom"],
+    ["py",".py",".python","python"],
+    ["function", "fun1", "def", "define"],
+    ["//","#","%","@"],
+    ["object-oriented programming", "structured programming", "functional programming", "all of the mentioned"]
+    ],
+
+    "ans" : [ 3, 2, 3, 2, 4]
+
+}
