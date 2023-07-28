@@ -1,0 +1,20 @@
+{
+   "ques" : [
+    "1.What do we use to define a block of code in Python language?",
+    "2. What is the method inside the class in python language?",
+    "3.Why does the name of local variables start with an underscore discouraged?",
+    "4.Which of the following is not a keyword in Python language?",
+    "5.Which one of the following has the highest precedence in the expression?"
+    ],
+
+    "options" : [
+    ["Key", "Brackets", "Indentation", "None of these"],
+    ["Object","Function","Attribute","Argument"],
+    ["To identify the variable", "It confuses the interpreter", "It indicates a private variable of a class", "None of these"],
+    ["val","raise","try","with"],
+    ["Division", "Subtraction", "Power", "Parentheses"]
+    ],
+
+    "ans" : [ 3, 2, 3, 1, 4]
+
+}
